@@ -20,7 +20,7 @@ DID全称为 Decentralized ID ，也就是去中心化身份。与之相对的�
 
 ION的目标是创建一个去中心化的身份生态系统，在这个生态系统中，数以百万计的组织、数十亿的人和无数的设备可以在基于标准和开源组件的互操作系统上安全地交互。
 
-![](1.png)
+![](pic/1.png)
 
 根据白皮书的描述，该项目主要由7大技术模块构成，分别是：W3C Decentralized Identifiers、 Decentralized systems、DID User Agents、 DIF Universal Resolver、DIF Identity Hubs、 DID Attestations、Decentralized apps and services。
 
@@ -46,7 +46,7 @@ ION的目标是创建一个去中心化的身份生态系统，在这个生态�
 
 该项目旨在打造一个安全、易用的自主身份识别系统。uPort技术由三个主要组件组成：智能合约、开发者库、移动应用程序。
 
-![](uPort2.png)
+![](pic/uPort2.png)
 
 移动应用程序保存用户的密钥；智能合约则构成了身份识别的核心，并且包含了让用户在移动设备丢失时恢复其身份的逻辑；开发人员库用于第三方应用程序开发人员将uPort支持集成到他们的应用程序中。
 
@@ -80,7 +80,7 @@ Sovrin 与前面两个项目略有不同，其是一个半公有化的数字身�
 
 本质上来讲，Sorvin是一种用于自治身份（Self-Sovereign Identity）和去中心化信任的协议。其目标是任何人都可以发布包含数字签名的证书，其他人都可以验证。相比于其他DID方案来讲，Sovrin并没有关注数字世界身份与物理世界身份验证的问题。
 
-![](sovrin.png)
+![](pic/sovrin.png)
 
 为解决身份认证的相关问题，Sovrin通过以下几项重要技术的结合，设计了一个独特的技术架构。
 
@@ -105,7 +105,7 @@ ShoCard 网络实现的功能有 3 种：身份验证、授权审核证明的交
 
 ShoCard技术架构主要分为以下几部分：ShoCard 软件工具包（SDK）、ShoCard 服务层（Sho服务器和 Sho 储存器）、ShoCard 侧链、区块链缓存、ShoCard 区块链适配器等。
 
-![](shocard.jpeg)
+![](pic/shocard.jpeg)
 
 而这之中又划分了两个层面，分别是应用层与服务层。
 
