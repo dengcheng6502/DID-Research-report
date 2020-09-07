@@ -14,6 +14,8 @@ DID全称为 Decentralized ID ，也就是去中心化身份。与之相对的�
 
 目前已经有的较为知名的DID项目主要有：MicrosoftDID 、uPort 、Sovrin 、Civic 、ShoCard 等。
 
+下面我们选取了四个较为典型的DID项目，来进行具体的分析。
+
 ### MicrosoftDID
 
 微软在2019年，提出了名为“身份覆盖网络”（ Identity Overlay Network，简称 ION ）的项目。它是一个基于比特币的双层网络，通过 Sidetree 协议访问比特币网络，允许用户通过管理公钥基础设施（ PKI ）来控制自己的数据。
