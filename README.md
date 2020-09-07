@@ -12,7 +12,7 @@ DID全称为 Decentralized ID ，也就是去中心化身份。与之相对的�
 
 ## 现有方案
 
-目前已经有的较为知名的DID项目主要有以下几个：MicrosoftDID 、uPort 、Sovrin 、Civic 、ShoCard 。
+目前已经有的较为知名的DID项目主要有：MicrosoftDID 、uPort 、Sovrin 、Civic 、ShoCard 等。
 
 ### MicrosoftDID
 
